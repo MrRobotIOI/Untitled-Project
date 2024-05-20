@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject5_Cplusplus",
+			"Path": "..\\Source\\MyProject5_Cplusplus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProject5_CplusplusEditor",
+			"Path": "..\\Source\\MyProject5_CplusplusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

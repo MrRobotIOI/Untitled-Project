@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\myproject5_cplusplus 5.4\\source\\myproject5_cplusplus\\planetarymovementcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\x64\\myproject5_cpluspluseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject5_cplusplus\\definitions.myproject5_cplusplus.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\source\\myproject5_cplusplus\\planetarymovementcomponent.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementcomponent.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navigationavoidancetypes.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationavoidancetypes.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\ai\\rvoavoidanceinterface.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rvoavoidanceinterface.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\interfaces\\networkpredictioninterface.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\networkpredictioninterface.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\charactermovementcomponentasync.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponentasync.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponent.generated.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject5_cplusplus\\uht\\planetarymovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject5_cplusplus\\uht\\playercontrollerbb.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\x64\\myproject5_cpluspluseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject5_cplusplus\\definitions.myproject5_cplusplus.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\source\\myproject5_cplusplus\\playercontrollerbb.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\source\\myproject5_cplusplus\\myproject5_cpluspluscharacter.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject5_cplusplus\\uht\\myproject5_cpluspluscharacter.generated.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject5_cplusplus\\uht\\playercontrollerbb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

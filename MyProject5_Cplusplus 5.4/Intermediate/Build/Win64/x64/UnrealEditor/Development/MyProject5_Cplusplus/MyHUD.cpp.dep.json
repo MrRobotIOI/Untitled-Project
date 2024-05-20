@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\myproject5_cplusplus 5.4\\source\\myproject5_cplusplus\\myhud.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\x64\\myproject5_cpluspluseditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject5_cplusplus\\definitions.myproject5_cplusplus.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\source\\myproject5_cplusplus\\myhud.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "d:\\unreal engine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "d:\\unreal projects\\myproject5_cplusplus 5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject5_cplusplus\\uht\\myhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject5_Cplusplus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\MyProject5_CplusplusEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\CharacterBB.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\FunctionA.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyHUD.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyProject5_Cplusplus.init.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyProject5_CplusplusCharacter.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyProject5_CplusplusGameMode.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\PlanetaryMovementComponent.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\PlanetaryProjectile.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\PlayerControllerBB.gen.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\CharacterBB.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\FunctionA.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyHUD.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyProject5_Cplusplus.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyProject5_CplusplusCharacter.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\MyProject5_CplusplusGameMode.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\PlanetaryMovementComponent.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\PlanetaryProjectile.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\PlayerControllerBB.cpp.obj"
+"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\Default.rc2.res"
+/OUT:"D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject5_Cplusplus\UnrealEditor-MyProject5_Cplusplus.lib"

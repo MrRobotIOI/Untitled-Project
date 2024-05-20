@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject5_Cplusplus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject5_Cplusplus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject5_CplusplusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject5_Cplusplus">
+      <UniqueIdentifier>{13FDB115-640A-360E-94EF-144B49256C15}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\CharacterBB.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\CharacterBB.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\FunctionA.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\FunctionA.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\MyHUD.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\MyHUD.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject5_Cplusplus\MyProject5_Cplusplus.Build.cs">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\MyProject5_Cplusplus.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\MyProject5_Cplusplus.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\MyProject5_CplusplusCharacter.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\MyProject5_CplusplusCharacter.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\MyProject5_CplusplusGameMode.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\MyProject5_CplusplusGameMode.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\PlanetaryMovementComponent.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\PlanetaryMovementComponent.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\PlanetaryProjectile.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\PlanetaryProjectile.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5_Cplusplus\PlayerControllerBB.cpp">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5_Cplusplus\PlayerControllerBB.h">
+      <Filter>Source\MyProject5_Cplusplus</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject5_Cplusplus\.idea">
+      <UniqueIdentifier>{1DD8BEBC-CFB1-3F76-80DF-07E77676C236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir">
+      <UniqueIdentifier>{D1C06BD2-3976-36AC-A0C7-E9752390854F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea">
+      <UniqueIdentifier>{1799ACD4-8B7B-3D00-A582-BFAF54ADC24F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea\.gitignore">
+      <Filter>Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea\indexLayout.xml">
+      <Filter>Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea\projectSettingsUpdater.xml">
+      <Filter>Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea\workspace.xml">
+      <Filter>Source\MyProject5_Cplusplus\.idea\.idea.MyProject5_Cplusplus.dir\.idea</Filter>
+    </None>
+  </ItemGroup>
+</Project>

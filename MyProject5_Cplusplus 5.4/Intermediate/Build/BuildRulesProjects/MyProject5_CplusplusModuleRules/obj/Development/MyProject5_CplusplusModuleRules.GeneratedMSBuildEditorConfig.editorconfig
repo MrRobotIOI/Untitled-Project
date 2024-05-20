@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyProject5_CplusplusModuleRules
+build_property.ProjectDir = D:\Unreal Projects\MyProject5_Cplusplus 5.4\Intermediate\Build\BuildRulesProjects\MyProject5_CplusplusModuleRules\
