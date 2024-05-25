@@ -16,7 +16,7 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void UpdateGravityDirection(const FVector& NewGravityDir);
 
-	virtual bool FloorSweepTest(
+	/*virtual bool FloorSweepTest(
 		struct FHitResult& OutHit,
 		const FVector& Start,
 		const FVector& End,
@@ -25,7 +25,7 @@ public:
 		const struct FCollisionQueryParams& Params,
 		const struct FCollisionResponseParams& ResponseParam
 		) const override;
-		
+		*/
 	GENERATED_BODY()
 	
 };

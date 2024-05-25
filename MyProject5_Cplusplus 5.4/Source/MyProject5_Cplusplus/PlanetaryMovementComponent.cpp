@@ -8,7 +8,7 @@ void UPlanetaryMovementComponent::UpdateGravityDirection(const FVector& NewGravi
 	
 }
 
-bool UPlanetaryMovementComponent::FloorSweepTest(FHitResult& OutHit, const FVector& Start, const FVector& End,
+/*bool UPlanetaryMovementComponent::FloorSweepTest(FHitResult& OutHit, const FVector& Start, const FVector& End,
 	ECollisionChannel TraceChannel, const FCollisionShape& CollisionShape, const FCollisionQueryParams& Params,
 	const FCollisionResponseParams& ResponseParam) const
 {
@@ -18,4 +18,4 @@ bool UPlanetaryMovementComponent::FloorSweepTest(FHitResult& OutHit, const FVect
 	DrawDebugLine(GetWorld(), Start, EndLocation, FColor::Green, false, -1, 0, 1.0f);
 	return Super::FloorSweepTest(OutHit, Start, EndLocation, TraceChannel, CollisionShape, Params, ResponseParam);
 }
-
+*/

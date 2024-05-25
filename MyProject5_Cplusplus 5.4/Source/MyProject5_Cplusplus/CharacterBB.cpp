@@ -6,6 +6,7 @@
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 #include "Camera/CameraComponent.h"
+#include "Components/CapsuleComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 
@@ -87,14 +88,9 @@ void ACharacterBB::JumpA()
 void ACharacterBB::Run()
 {
 	
-	if (GetCharacterMovement()->IsFlying())
-	{
-		GetCharacterMovement()->MaxFlySpeed= 1500;
-	}
-	else
-	{
+
 		GetCharacterMovement()->MaxWalkSpeed = 600;
-	}
+		
 }
 void ACharacterBB::StopRun()
 {
@@ -105,17 +101,29 @@ void ACharacterBB::FlyUpDown(const FInputActionValue& InputActionValue)
 	FVector2d InputVector = InputActionValue.Get<FVector2d>();
 	if (GetCharacterMovement()->IsFlying())
 	{
-		AddMovementInput(GetActorUpVector(),InputVector.X);
+		AddMovementInput(GetActorUpVector(),InputVector.X/1.8);
+		
+	
 	}
 	else
 	{
-		GetCharacterMovement()->SetMovementMode(MOVE_Flying);
-		AddMovementInput(GetActorUpVector(),InputVector.X);
+		if(InputVector.X > 0)
+		{
+			GetCharacterMovement()->SetMovementMode(MOVE_Flying);
+			
+			AddMovementInput(GetActorUpVector(),InputVector.X);
+			
+			GetCharacterMovement()->SetMovementMode(EMovementMode::MOVE_Flying);
+			//GetCapsuleComponent()->SetCapsuleHalfHeight(88 + 50.0f); // Adjust the value as needed
+
+		
+		}
 	}
 }
 void ACharacterBB::StopFlying()
 {
-	GetCharacterMovement()->SetMovementMode(MOVE_Falling);
+	GetCharacterMovement()->SetMovementMode(MOVE_Walking);
+	//GetCapsuleComponent()->SetCapsuleHalfHeight(88);
 }
 void ACharacterBB::MoveA(const FInputActionValue& InputActionValue)
 {
